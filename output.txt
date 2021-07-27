@@ -1,0 +1,13 @@
+-------------------------------------------------------------
+Weather Stats for - LONDON  || 27 Jul 2021 | 03:13:30 PM
+ ------------------------------------------------------------- 
+
+Current temperature is: 20.68 deg C
+
+Current weather desc  :,scattered clouds 
+
+Current Humidity      :,78,% 
+
+Current wind speed    :,0.45,kmph 
+
+====================================================
